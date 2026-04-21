@@ -1,14 +1,4 @@
-// Check Even Number in JavaScript
-
-let num = 10;
-
-if (num % 2 === 0) {
-    console.log("Even Number");
-} else {
-    console.log("Odd Number");
-}
-
-  
+ 
 // fibnocci
 
 function fibonacci(n) {
